@@ -1,7 +1,7 @@
 # Design Thinking
 ## Innovation for Disadvantaged Group (GROCER4U)
 
-<span style="color:blue; font-weight:bold">📅 Date:</span> <span style="color:#4CAF50">December 23, 2024</span>  
+<span style="color:purple; font-weight:bold">📅 Date:</span> <span style="color:#4CAF50">December 23, 2024</span>  
 <span style="color:blue; font-weight:bold">📆 Day:</span> <span style="color:#4CAF50">Monday</span>
 
 
